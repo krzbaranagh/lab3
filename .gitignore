@@ -1,3 +1,6 @@
 Ignoruj.md
 /log/
 /build/
+*.log
+*.pdf
+*.tmp
